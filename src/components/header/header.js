@@ -5,7 +5,7 @@ const Header = () => {
 
   return(
     <> 
-      <h1> Death Note !</h1>
+      <h1> GameS DB !</h1>
     </>
   );
 };
