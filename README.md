@@ -1,12 +1,12 @@
-# LAB - Class 36
+# LAB - Class 37
 
-## Application State with Redux
+## Combined Reducers
 
 ### Author: Abdul-rhman Al-harasis 
 
 ### Links and Resources
 
-- [submission PR](https://github.com/401-advanced-javascript-Dante/lab36/pull/1)
+- [submission PR](https://github.com/401-advanced-javascript-Dante/lab36/pull/2)
 
 <!-- - [ci/cd](https://github.com/401-advanced-javascript-Dante/lab31/actions/runs/48085952) (GitHub Actions) -->
 
@@ -25,5 +25,5 @@
 #### UML
 
 Link to an image of the UML for your application and response to events
-- [uml](https://i.ibb.co/VtJwWDc/lab36.jpg)(UML)
+- [uml](https://i.ibb.co/VVTjWG1/photo-2020-03-10-20-50-09.jpg)(UML)
 
