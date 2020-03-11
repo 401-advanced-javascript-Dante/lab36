@@ -2,7 +2,7 @@
 
 ## Application State with Redux
 
-### Author: Abdul-rhman Al-harasis 
+### Author: Ghoroob Alswalqah && Fatima Shubeilat && Abdul-rhman Al-harasis 
 
 ### Links and Resources
 
