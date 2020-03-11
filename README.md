@@ -2,7 +2,7 @@
 
 ## Combined Reducers
 
-### Author: Abdul-rhman Al-harasis 
+### Authors:Ghoroob Alswalqah && Fatima Shubeilat && Abdul-rhman Al-harasis 
 
 ### Links and Resources
 
