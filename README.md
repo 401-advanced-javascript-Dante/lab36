@@ -6,11 +6,11 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/401-advanced-javascript-Dante/lab36/pull/2)
+- [submission PR](https://github.com/401-advanced-javascript-Dante/lab36/pull/3)
 
 <!-- - [ci/cd](https://github.com/401-advanced-javascript-Dante/lab31/actions/runs/48085952) (GitHub Actions) -->
 
-- [front-end application](https://401-advanced-javascript-dante.github.io/lab36/) (GitHub Pages)
+- [front-end application](https://affectionate-kirch-afb68a.netlify.com) (Netlify)
 
 ### Setup
 
@@ -18,6 +18,7 @@
 #### How to initialize/run your application (where applicable)
 
 - e.g. `npm start`
+- you should use `Allow CORS` extension on google chrome so you can fetch the data from Swapi API, or you gonna have an issue with cors ...
 
 #### Tests
 - No test required for this lab 
