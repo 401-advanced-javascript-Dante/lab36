@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/401-advanced-javascript-Dante/lab36/issues"
   },
-  "homepage": "https://github.com/lab36",
+  "homepage": "/",
   "dependencies": {
     "eslint": "^6.8.0",
     "gh-pages": "^2.2.0",
