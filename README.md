@@ -1,4 +1,4 @@
-# LAB - Class 37
+# LAB - Class 38
 
 ## Combined Reducers
 
@@ -25,5 +25,5 @@
 #### UML
 
 Link to an image of the UML for your application and response to events
-- [uml](https://i.ibb.co/VVTjWG1/photo-2020-03-10-20-50-09.jpg)(UML)
+- [uml](https://i.ibb.co/bNBY8QH/lab38.jpg)(UML)
 

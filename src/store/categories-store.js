@@ -2,7 +2,7 @@
 
 
 let initialState = {
-  categories: ['ACTION' , 'ADVENTURE','SURVIVE'],
+  categories: ['ACTION' , 'ADVENTURE','SURVIVE','STARWARS'],
   current : '',
 };
   
