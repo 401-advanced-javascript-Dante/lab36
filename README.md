@@ -6,11 +6,11 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/401-advanced-javascript-Dante/lab36/pull/3)
+- [submission PR](https://github.com/401-advanced-javascript-Dante/lab36/pull/4)
 
 <!-- - [ci/cd](https://github.com/401-advanced-javascript-Dante/lab31/actions/runs/48085952) (GitHub Actions) -->
 
-- [front-end application](https://affectionate-kirch-afb68a.netlify.com) (Netlify)
+- [front-end application](https://competent-curran-4a0c38.netlify.com)(Netlify)
 
 ### Setup
 
@@ -26,5 +26,5 @@
 #### UML
 
 Link to an image of the UML for your application and response to events
-- [uml](https://i.ibb.co/bNBY8QH/lab38.jpg)(UML)
+- [uml](https://i.ibb.co/Rc5d3qp/lab39.jpg)(UML)
 
