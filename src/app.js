@@ -1,6 +1,7 @@
 /* eslint-disable no-unused-vars */
 // dependencies 
 import React from 'react';
+import {Route} from 'react-router-dom';
 
 // components 
 import Header from './components/header/header.js';
@@ -20,9 +21,16 @@ const App = ()=>{
     <>
 
       <Header />
-      <Cart />
-      <Categories />
-      <Products />
+
+      <Route exact path="/cart">
+        <Cart />
+      </Route>
+
+      <Route exact path="/">
+        <Categories />
+        <Products />
+      </Route>
+
       <Footer />
           
     </>

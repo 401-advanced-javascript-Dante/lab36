@@ -9,6 +9,9 @@ const status = props => {
   console.log('props.', props);
   return(
     <>
+
+      <h2>My Cart({props.items.inCart.length})</h2>
+
       <h2> Current==> {props.current.current} </h2>
       
       {      props.current.categories.map( (val , idx) => {
@@ -21,8 +24,9 @@ const status = props => {
 
 
 const mapStateToProps = state =>{
-  return {current: state.selector};
+  return {current: state.selector , items: state.cart};
 };
+
 
 const mapDespatchToProps = {changeSelected,chooseList} ;
 

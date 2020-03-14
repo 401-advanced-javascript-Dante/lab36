@@ -1,6 +1,6 @@
-# LAB - Class 38
+# LAB - Class 39
 
-## Combined Reducers
+## Redux - Additional Topics
 
 ### Authors:Ghoroob Alswalqah && Fatima Shubeilat && Abdul-rhman Al-harasis 
 
